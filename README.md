@@ -29,7 +29,8 @@ Independent contract for a professional STEM portfolio for Dr. Corey Frazier, P.
 |  3 	|   A user should be able to view the community projects Dr. Frazier is currently and or has been involved in. 	|
 |  4 	|   A user should be able to view the board of directors that Dr. Frazier is currently holding a position on. 	|
 |  5 	|   A user should be able to connect with Dr. Frazier's various linktree social media connections, including the superhuman site, in the header and the footer of the page. 	|
-|  5 	|   A user should also be able to contact Dr. Frazier through a "get in touch" contact section at the bottom of the page. 	|
+|  6 	|   A user should also be able to contact Dr. Frazier through a "get in touch" contact section at the bottom of the page. 	|
+|  7 	|   Subtle, tasteful animations should be incorporated throughout the elements and sections of the page in order to create more of an interactive experience for the user. 	|
 
 ### Technologies Used
 
